@@ -136,7 +136,7 @@
   justify-content: center;
   gap: 40px;
 }
-.recipes_video-caption {
+.recipes__video-caption {
   display: flex;
   justify-content: space-between;
   font-family: Inter, Arial, sans-serif;
@@ -146,7 +146,7 @@
   color: #fff;
 }
 
-iframe {
+.iframe__video {
   width: 560px;
   height: 315px;
 }
