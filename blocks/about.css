@@ -1,0 +1,37 @@
+.about {
+  background-color: #0a2850;
+  color: #fff;
+  display: flex;
+  padding: 100px 80px 173px;
+  justify-content: space-between;
+}
+
+.about__title {
+  max-width: 251px;
+  font-family: Inter, Arial, sans-serif;
+  font-weight: 500;
+  font-size: 44px;
+  line-height: 52px;
+  margin: 0;
+}
+.about__content {
+  max-width: 660px;
+  margin-top: 19px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.about__paragraph {
+  margin: 0;
+  font-family: "Noto Serif", "Times New Roman", serif;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.about__circle {
+  background-color: #1878dc;
+  height: 426px;
+  width: 426px;
+  border-radius: 50%;
+  position: absolute;
+}
